@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.administrator.news.Activity.LogoActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@mipmap/nidemingzi1"
+        />
+    <TextView
+        android:id="@+id/tv_left_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="广告倒计时：3 秒"
+        android:textSize="22sp"
+        android:textColor="#963322"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        />
+</RelativeLayout>

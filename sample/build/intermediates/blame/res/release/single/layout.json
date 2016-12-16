@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\news\\sample\\build\\intermediates\\res\\merged\\release\\layout\\activity_ptr_grid.xml",
+        "source": "E:\\Users\\Administrator\\AndroidStudioProjects\\news\\sample\\src\\main\\res\\layout\\activity_ptr_grid.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\news\\sample\\build\\intermediates\\res\\merged\\release\\layout\\layout_listview_in_viewpager.xml",
+        "source": "E:\\Users\\Administrator\\AndroidStudioProjects\\news\\sample\\src\\main\\res\\layout\\layout_listview_in_viewpager.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\news\\sample\\build\\intermediates\\res\\merged\\release\\layout\\activity_ptr_webview2.xml",
+        "source": "E:\\Users\\Administrator\\AndroidStudioProjects\\news\\sample\\src\\main\\res\\layout\\activity_ptr_webview2.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\news\\sample\\build\\intermediates\\res\\merged\\release\\layout\\activity_ptr_viewpager.xml",
+        "source": "E:\\Users\\Administrator\\AndroidStudioProjects\\news\\sample\\src\\main\\res\\layout\\activity_ptr_viewpager.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\news\\sample\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\Users\\Administrator\\AndroidStudioProjects\\news\\sample\\build\\intermediates\\exploded-aar\\news\\library\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\news\\sample\\build\\intermediates\\res\\merged\\release\\layout\\activity_ptr_horizontalscrollview.xml",
+        "source": "E:\\Users\\Administrator\\AndroidStudioProjects\\news\\sample\\src\\main\\res\\layout\\activity_ptr_horizontalscrollview.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\news\\sample\\build\\intermediates\\res\\merged\\release\\layout\\activity_ptr_list.xml",
+        "source": "E:\\Users\\Administrator\\AndroidStudioProjects\\news\\sample\\src\\main\\res\\layout\\activity_ptr_list.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\news\\sample\\build\\intermediates\\res\\merged\\release\\layout\\activity_ptr_list_fragment.xml",
+        "source": "E:\\Users\\Administrator\\AndroidStudioProjects\\news\\sample\\src\\main\\res\\layout\\activity_ptr_list_fragment.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\news\\sample\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\Users\\Administrator\\AndroidStudioProjects\\news\\sample\\build\\intermediates\\exploded-aar\\news\\library\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\news\\sample\\build\\intermediates\\res\\merged\\release\\layout\\need_this_for_maven.xml",
+        "source": "E:\\Users\\Administrator\\AndroidStudioProjects\\news\\sample\\build\\intermediates\\exploded-aar\\news\\pullToRefreshListFragment\\unspecified\\res\\layout\\need_this_for_maven.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\news\\sample\\build\\intermediates\\res\\merged\\release\\layout\\activity_ptr_expandable_list.xml",
+        "source": "E:\\Users\\Administrator\\AndroidStudioProjects\\news\\sample\\src\\main\\res\\layout\\activity_ptr_expandable_list.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\news\\sample\\build\\intermediates\\res\\merged\\release\\layout\\activity_ptr_scrollview.xml",
+        "source": "E:\\Users\\Administrator\\AndroidStudioProjects\\news\\sample\\src\\main\\res\\layout\\activity_ptr_scrollview.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\news\\sample\\build\\intermediates\\res\\merged\\release\\layout\\activity_ptr_list_in_vp.xml",
+        "source": "E:\\Users\\Administrator\\AndroidStudioProjects\\news\\sample\\src\\main\\res\\layout\\activity_ptr_list_in_vp.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\news\\sample\\build\\intermediates\\res\\merged\\release\\layout\\activity_ptr_webview.xml",
+        "source": "E:\\Users\\Administrator\\AndroidStudioProjects\\news\\sample\\src\\main\\res\\layout\\activity_ptr_webview.xml"
+    }
+]
